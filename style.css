@@ -46,7 +46,7 @@ p {
   position: relative;
 }
 
-.masonry {
+.trame {
 
   -webkit-column-count: 2;
   column-count: 2;
@@ -164,21 +164,21 @@ img {
   padding: 17px 45px;
 }
 
-.btn-primary {
+.btn-premier {
   color: #9999cc;
   background-color: #ffffff;
 }
 
-.-btn-primary:hover {
+.btn-premier:hover {
   background-color: #c5c5e6;
 }
 
-.btn-secondary {
+.btn-secondaire {
   color: white;
   background-color: #9999cc;
 }
 
-.btn-secondary:hover {
+.btn-secondaire:hover {
   color: #ffffff;
   background-color: #5b5bb2;
 }
@@ -199,10 +199,6 @@ img {
   background-color: #996666;
 }
 
-.bg-secondary {
-  background-color: #9999cc;
-}
-
 .margin {
   margin-top: 30px;
 }
@@ -215,7 +211,7 @@ img {
   margin-bottom: 45px;
 }
 
-.mb-small {
+.marginpetit {
   margin-bottom: 20px;
 }
 
